@@ -7,9 +7,8 @@ This is the Java Application for Airlines booking  System.It has all the feature
 ├── BOOK TICKET                 
 ├── CANCEL TICKET                 
 ├── UPDATE INFO
-
 └── LOG OUT
-
 ├── LICENSE
 
-└── Readme
+Download the project exe file from the link :-https://drive.google.com/file/d/1K7LG3TqyRdmawcbuOvOYovwTdcoobYgY/view
+and install it into your PC to check .
