@@ -14,5 +14,5 @@ Download the project exe file from the link :-https://drive.google.com/file/d/1K
 and install it into your PC to check .
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Te-CS456CEE&t=11s
-" target="_blank"><img src="image.png" 
+" target="_blank"><img src="video.PNG" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
