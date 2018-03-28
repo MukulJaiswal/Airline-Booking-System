@@ -13,4 +13,6 @@ This is the Java Application for Airlines booking  System.It has all the feature
 Download the project exe file from the link :-https://drive.google.com/file/d/1K7LG3TqyRdmawcbuOvOYovwTdcoobYgY/view
 and install it into your PC to check .
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Te-CS456CEE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Te-CS456CEE&t=11s
+" target="_blank"><img src="image.png" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
