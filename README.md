@@ -12,5 +12,4 @@ This is the Java Application for Airlines booking  System.It has all the feature
 
 Download the project exe file from the link :-https://drive.google.com/file/d/1K7LG3TqyRdmawcbuOvOYovwTdcoobYgY/view
 and install it into your PC to check .
-
 <video src="video.mp4" width="320" height="200" controls preload></video>
